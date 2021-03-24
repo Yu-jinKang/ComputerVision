@@ -1,9 +1,9 @@
 # ComputerVision
 ComputerVision(2020-4)
 
-###HelloCV
-print CV_VERSION
-read Mat object
-check file error
-imshow image
-modify location of window(x,y)
+### HelloCV
+1. print CV_VERSION
+2. read Mat object
+3. check file error
+4. imshow image
+5. modify location of window(x,y)
